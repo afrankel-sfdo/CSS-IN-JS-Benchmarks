@@ -11,6 +11,7 @@ Big Table examples, use:
 - glam
 - fela
 - react-jss
+- react-jss-pure
 - radium
 - react-native-web
 - rockey
